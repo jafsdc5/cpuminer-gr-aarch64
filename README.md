@@ -1,4 +1,4 @@
-## Docker image for cpuminer-gr-aarch64
+## Docker build script for cpuminer-gr on aarch64
 
 Verified working on Apple M1 Air with Docker Desktop for MacOS.
 
