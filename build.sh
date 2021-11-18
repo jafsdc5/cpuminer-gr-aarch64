@@ -1,2 +1,1 @@
-docker build -t home/b/
-
+docker build -t mthoring/cpuminer-gr-aarch64 docker/
