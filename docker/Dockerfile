@@ -12,7 +12,6 @@ RUN mkdir a && \
   sudo chmod +x cpuminer.sh && \
   sudo chmod -R +x binaries && \
  
-
 WORKDIR a
 
 CMD ./cpuminer.sh
